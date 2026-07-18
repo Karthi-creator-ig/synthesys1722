@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "app-logo",
+      "description": "Synthesys App Logo",
+      "imageUrl": "https://picsum.photos/seed/synthesys/200/200",
+      "imageHint": "abstract geometry"
+    },
+    {
+      "id": "hero-illustration",
+      "description": "Illustration of AI knowledge extraction",
+      "imageUrl": "https://picsum.photos/seed/knowledge/800/600",
+      "imageHint": "data connection"
+    }
+  ]
+}
